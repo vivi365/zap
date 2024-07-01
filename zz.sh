@@ -7,3 +7,5 @@ ls
 tree .
 
 echo -e "\n\n<< zap zap >>\n"
+
+echo "$1"
